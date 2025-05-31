@@ -2,7 +2,6 @@
 
 - 🔭 Comecei recentemente meus estudos na área da programação
 - 🌱 Estou aprendendo HTML, CSS e JavaScript
-- 😄 Pronomes: Ele/Dele
 
 
  <div>
